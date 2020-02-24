@@ -1,0 +1,164 @@
+body
+{
+    font-family: 'Lato', ;
+    margin: 0;
+
+}
+h1{
+    font-size: 30px;
+}
+.first
+{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.second
+{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section
+{
+    height: 500px;
+    padding-bottom: 150px;
+}
+ 
+.name
+{
+    color:orangered;
+    font-size: 40px;
+
+}
+.div1
+{
+    width: 30%;
+    padding: 5% 0% 5% 5%;
+    margin-left: 10%;
+    float:left;
+    text-align: justify;
+}
+.div1 img
+{
+    width: 100%;
+}
+.hire
+{
+    
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: linear-gradient(lightSalmon, tomato);
+    color:white;
+    font-weight: bold;
+
+}
+.latest
+{
+    margin: 0;
+    padding-top: 100px;
+    text-align: center;
+}
+.third
+{
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.latest-image
+{
+    height: 80%;
+    width: 25%;
+    float:left;
+    padding-left: 12%;
+    padding-top: 5%;
+
+}
+.latest-image2
+{
+    height: 80%;
+    width: 25%;
+    float: left;
+    padding-top: 5%;
+    padding-left: 1%;
+}
+.latest-image3
+{
+    height: 80%;
+    width: 25%;
+    float: left;
+    padding-top: 5%;
+    padding-left: 1%;
+}
+.four
+{
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+}
+.bruce
+{
+    padding-top: 10px;
+    text-align: center;
+    
+}
+#para1
+{
+    text-shadow: grey;
+    padding-bottom: 15px;
+}
+#para2
+{
+    padding-top: 10px;
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: justify;
+    
+}
+
+
+
+.last
+{
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    
+    display: inline-block;
+    
+    background-image: linear-gradient(45deg, blue,pink );
+    padding: 50px 140px;
+    border-radius: 15px;
+    color: white;
+    
+    
+    
+}
+.saaal
+{
+    
+    
+    padding-top: 5%;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+.ses
+{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+#finish
+{
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+ 
